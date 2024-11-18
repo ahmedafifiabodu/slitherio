@@ -4,6 +4,11 @@
 
 Project Demo is a multiplayer game developed using Unity and Netcode for GameObjects. The gameplay is inspired by the popular game Slither.io, where players control a character that grows in length by consuming other players or items in the game world.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ab4d03ce-0c7f-4c7a-9a9c-682010188e68" width="400" />
+</div>
+
+
 ## Features
 
 - **Multiplayer Gameplay**: Engage in real-time multiplayer matches with other players.
